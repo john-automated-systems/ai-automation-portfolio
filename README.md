@@ -1,2 +1,1 @@
-# ai-automation-portfolio
-John's Portofolio
+# John's Portofolio
