@@ -43,6 +43,10 @@ An AI-powered voice calling system that:
 
 Lead & Customer Support Automator – System Architecture & Voice Logic
 
+## FAQs
+
+- https://docs.google.com/document/d/1r9-tStqgQzwbMhC8HT5FPEgIUf0wYM0NBlq9JjxzRIE/edit?tab=t.0
+
 ## Notes
 
 ### The above is a demonstrational system only.
@@ -87,6 +91,10 @@ An AI-powered chat-agent system that:
 ## Role
 
 Lead & Customer Support Automator – System Architecture & Chat Logic
+
+## FAQs
+
+- https://docs.google.com/document/d/1dmyJOwYM-M84Ipv7HUQa4HcrYVfUSAtdKo-6ULR4w2k/edit?tab=t.0
 
 ## Notes
 
